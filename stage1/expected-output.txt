@@ -1,0 +1,2 @@
+apples, drug, territory, bead, key, cabbage, minister, neck, jeans, income, credit, rifle, tomatoes, stem, needle, pigs, hour
+6, 0, f92e, o, 396273, 383, 1, -701.403702, 1.093750, 1, 0, 0, 0, 246, fear, 166, 363.302094

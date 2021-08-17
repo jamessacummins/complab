@@ -1,0 +1,20 @@
+Records of your data files contain the following fields in the following sequence.
+ 
+
+The apples field is an eight bit integer  
+The drug field is a thirty two bit Boolean  
+The territory field is a sixteen bit integer  
+The bead field is an eight bit character  
+The key field is a sixty four bit integer  
+The cabbage field is a thirty two bit unsigned integer  
+The minister field is a sixteen bit Boolean  
+The neck field is a sixty four bit floating point number  
+The jeans field is a sixty four bit floating point number  
+The income field is an eight bit Boolean  
+The credit field is a sixteen bit Boolean  
+The rifle field is a thirty two bit Boolean  
+The tomatoes field is a thirty two bit Boolean  
+The stem field is a thirty two bit integer  
+The needle field is a fixed-length string holding at most 11 characters (including terminating nulls)  
+The pigs field is an eight bit unsigned integer  
+The hour field is a thirty two bit floating point number  

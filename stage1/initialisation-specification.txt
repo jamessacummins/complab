@@ -1,0 +1,19 @@
+Initialise the data fields of the record as listed below.
+
+The field called 'apples' must be set to decimal 6  
+The field called 'drug' must be set to 0  
+The field called 'territory' must be set to decimal -1746  
+The field called 'bead' must be set to the single character 'o'
+The field called 'key' must be set to decimal 396273  
+The field called 'cabbage' must be set to decimal 383 written as octal  
+The field called 'minister' must be set to 1  
+The field called 'neck' must be set to -701.403702  
+The field called 'jeans' must be set to 1.093750  
+The field called 'income' must be set to 1  
+The field called 'credit' must be set to 0  
+The field called 'rifle' must be set to 0  
+The field called 'tomatoes' must be set to 0  
+The field called 'stem' must be set to decimal 246  
+The field called 'needle' must be set to the character string "fear"
+The field called 'pigs' must be set to decimal number 166 written as hexadecimal  
+The field called 'hour' must be set to 363.302094  
