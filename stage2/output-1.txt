@@ -1,0 +1,2 @@
+apples, drug, territory, bead, key, cabbage, minister, neck, jeans, income, credit, rifle, tomatoes, stem, needle, pigs, hour
+-2, 1, ea77, O, 7361703, 31, 0, -0.859192, 16.531250, 0, 1, 0, 0, -45, stage, 70, 56.409569

@@ -1,0 +1,4 @@
+apples, drug, territory, bead, key, cabbage, minister, neck, jeans, income, credit, rifle, tomatoes, stem, needle, pigs, hour
+1, 0, d3e, v, -11479, 32251165, 0, 0.000031, -0.078125, 1, 1, 1, 0, -4, design, 1, 0.001179
+-20, 0, ffff, 0, 0, 683476412, 1, 0.771637, 2552.437500, 0, 0, 0, 1, 1260503, bath, 28, 0.000028
+-14, 0, 18, &, -752825321, 123883, 0, 0.000000, 1910705.312500, 0, 1, 1, 0, 51393022, straw, 14, -1.771329
